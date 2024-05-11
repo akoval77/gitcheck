@@ -1,4 +1,4 @@
-name: lightweight http server
+name: gitcheck
 
 on:
   push:
